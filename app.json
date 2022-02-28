@@ -10,7 +10,7 @@
     "productivity"
   ],
   "repository": "https://github.com/slim-girl/MafiaBotIsOP/",
-  "website": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
+  "website": "https://github.com/slim-girl/MafiaBotIsOP/",
   "success_url": "https://t.me/MafiaBot_Support",
   "env": {
     "ENV": {
@@ -34,7 +34,7 @@
     },    
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "😈CRAZYBOT IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
@@ -44,7 +44,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈LEGEND'S SAY'S TO CRAZYBOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
